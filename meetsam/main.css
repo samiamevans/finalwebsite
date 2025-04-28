@@ -1,0 +1,85 @@
+body {
+  background-color: rgba(247, 186, 74, 0.657) !important;
+  font-family: Georgia, serif;
+  max-width: 70rem;
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.newheader {
+  background-color: rgb(30, 0, 255);
+  color: white;
+  font-size: 18px;
+  padding: 10px 10%;
+  margin-bottom: 15px;
+  border: 1px solid #000;
+  border-radius: 12px;
+}
+
+img {
+  width: 30%;
+  display: block;
+  margin: auto;
+  border: 1px solid #000;
+  border-radius: 12px;
+}
+
+.caption {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.fancytext {
+  font-family: Georgia, serif;
+}
+
+.parsmall {
+  max-width: 150px;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin: 30px auto;
+}
+
+a:link,
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: whitesmoke;
+}
+
+a:active {
+  color: hotpink;
+}
